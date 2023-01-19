@@ -1,5 +1,5 @@
 ---
-title: Mobile Environmental Sensing
+title: Mobile Environmental Sensings
 ---
 
 # Home
